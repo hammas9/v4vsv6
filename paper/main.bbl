@@ -1,0 +1,282 @@
+\begin{thebibliography}{10}
+
+\bibitem{mcafee}
+Check single url.
+\newblock \url{https://www.trustedsource.org/}.
+\newblock (Accessed on 02/01/2022).
+
+\bibitem{maxmind-connectiondb}
+{GeoIP2 Connection Type Database | MaxMind}.
+\newblock \url{https://www.maxmind.com/en/geoip2-connection-type-database}.
+
+\bibitem{Google-IPv6}
+{IPv6 Google Statistics | Google}.
+\newblock \url{https://www.google.com/intl/en/ipv6/statistics.html}, 2022.
+\newblock Accessed: 2022-01-25.
+
+\bibitem{abdi2007bonferroni}
+Herv{\'e} Abdi et~al.
+\newblock Bonferroni and {\v{s}}id{\'a}k corrections for multiple comparisons.
+\newblock {\em Encyclopedia of measurement and statistics}, 3:103--107, 2007.
+
+\bibitem{Anonymous2020:TripletCensors}
+Anonymous, Arian~Akhavan Niaki, Nguyen~Phong Hoang, Phillipa Gill, and Amir
+  Houmansadr.
+\newblock Triplet censors: Demystifying great firewall's {DNS} censorship
+  behavior.
+\newblock In {\em {Proceedings of the 10th USENIX Workshop on Free and Open
+  Communications on the Internet}}, FOCI '20, 2020.
+
+\bibitem{aryan2013internet}
+Simurgh Aryan, Homa Aryan, and J~Alex Halderman.
+\newblock Internet censorship in iran: A first look.
+\newblock In {\em 3rd $\{$USENIX$\}$ Workshop on Free and Open Communications
+  on the Internet ($\{$FOCI$\}$ 13)}, 2013.
+
+\bibitem{menlo-companion}
+M.~Bailey, D.~Dittrich, and E.~Kenneally.
+\newblock Applying ethical principles to information and communication
+  technology research.
+\newblock Technical report, U.S. Department of Homeland Security, 2013-10.
+
+\bibitem{beznazwy2020china}
+Jan Beznazwy and Amir Houmansadr.
+\newblock How china detects and blocks shadowsocks.
+\newblock In {\em Proceedings of the ACM Internet Measurement Conference},
+  pages 111--124, 2020.
+
+\bibitem{clayton2006ignoring}
+Richard Clayton, Steven~J Murdoch, and Robert~NM Watson.
+\newblock Ignoring the great firewall of china.
+\newblock In {\em International Workshop on Privacy Enhancing Technologies},
+  pages 20--35. Springer, 2006.
+
+\bibitem{global2002great}
+Global Internet~Freedom Consortium et~al.
+\newblock The great firewall revealed.
+\newblock
+  \url{http://www.internetfreedom.org/files/WhitePaper/ChinaGreatFirewallRevealed.pdf},
+  2002.
+
+\bibitem{Czyz-SIGCOMM2014}
+Jakub Czyz, Mark Allman, Jing Zhang, Scott Iekel-Johnson, Eric Osterweil, and
+  Michael Bailey.
+\newblock Measuring ipv6 adoption.
+\newblock In {\em Proceedings of the 2014 ACM Conference on SIGCOMM}, SIGCOMM
+  '14, pages 87--98, New York, NY, USA, 2014. ACM.
+
+\bibitem{Czyz-NDSS2016}
+Jakub Czyz, Matthew~J. Luckie, Mark Allman, and Michael Bailey.
+\newblock Don't forget to lock the back door! {A} characterization of ipv6
+  network security policy.
+\newblock In {\em 23rd Annual Network and Distributed System Security
+  Symposium, {NDSS} 2016, San Diego, California, USA, February 21-24, 2016},
+  2016.
+
+\bibitem{dagon2008corrupted}
+David Dagon, Chris Lee, Wenke Lee, and Niels Provos.
+\newblock Corrupted dns resolution paths: The rise of a malicious resolution
+  authority.
+\newblock 2008.
+
+\bibitem{Dhamdhere-IMC2012}
+Amogh Dhamdhere, Matthew Luckie, Bradley Huffaker, kc~claffy, Ahmed Elmokashfi,
+  and Emile Aben.
+\newblock {Measuring the Deployment of IPv6: Topology, Routing and
+  Performance}.
+\newblock In {\em Proceedings of the 2012 Internet Measurement Conference}, IMC
+  '12, pages 537--550, New York, NY, USA, 2012. ACM.
+
+\bibitem{menlo}
+D.~Dittrich and E.~Kenneally.
+\newblock The menlo report: Ethical principles guiding information and
+  communication technology research.
+\newblock Technical report, U.S. Department of Homeland Security, 2012-08.
+
+\bibitem{Durumeric13zmap}
+Zakir Durumeric, Eric Wustrow, and J.~Alex Halderman.
+\newblock Zmap: Fast internet-wide scanning and its security applications.
+\newblock In {\em In Proceedings of the 22nd USENIX Security Symposium}, 2013.
+
+\bibitem{filasto2012ooni}
+Arturo Filasto and Jacob Appelbaum.
+\newblock Ooni: Open observatory of network interference.
+\newblock In {\em FOCI}, 2012.
+
+\bibitem{gebhart2017internet}
+Genevieve Gebhart and Tadayoshi Kohno.
+\newblock Internet censorship in thailand: User practices and potential
+  threats.
+\newblock In {\em 2017 IEEE European symposium on security and privacy
+  (EuroS\&P)}, pages 417--432. IEEE, 2017.
+
+\bibitem{hendriks2017potential}
+Luuk Hendriks, Ricardo de~Oliveira~Schmidt, Roland van Rijswijk-Deij, and Aiko
+  Pras.
+\newblock On the potential of ipv6 open resolvers for ddos attacks.
+\newblock In {\em International Conference on Passive and Active Network
+  Measurement}, pages 17--29. Springer, 2017.
+
+\bibitem{USESEC21:GFWatch}
+NP. Hoang, AA. Niaki, J.~Dalek, J.~Knockel, P.~Lin, B.~Marczak,
+  M.~Crete-Nishihata, P.~Gill, and M.~Polychronakis.
+\newblock {How Great is the Great Firewall? Measuring China's DNS Censorship}.
+\newblock In {\em 30th {USENIX} Security Symposium}, pages 3381--3398. {USENIX}
+  Association, 2021.
+
+\bibitem{Huston-APNIC2021}
+Geoff Huston.
+\newblock {IPv6 in 2020}.
+\newblock \url{https://blog.apnic.net/2021/02/08/ipv6-in-2020/}.
+\newblock Accessed: 2022-01-25.
+
+\bibitem{jones2015ethical}
+Ben Jones, Roya Ensafi, Nick Feamster, Vern Paxson, and Nick Weaver.
+\newblock Ethical concerns for censorship measurement.
+\newblock In {\em Proceedings of the 2015 ACM SIGCOMM Workshop on Ethics in
+  Networked Systems Research}, NS Ethics '15, page 17–19, New York, NY, USA,
+  2015. Association for Computing Machinery.
+
+\bibitem{kuhrer2015going}
+Marc K{\"u}hrer, Thomas Hupperich, Jonas Bushart, Christian Rossow, and
+  Thorsten Holz.
+\newblock Going wild: Large-scale classification of open dns resolvers.
+\newblock In {\em Proceedings of the 2015 Internet Measurement Conference},
+  pages 355--368, 2015.
+
+\bibitem{KLdivergence}
+Solomon Kullback and Richard~A Leibler.
+\newblock On information and sufficiency.
+\newblock {\em The annals of mathematical statistics}, 22(1):79--86, 1951.
+
+\bibitem{citizenlab-blocklists}
+Citizen Lab and Others.
+\newblock Url testing lists intended for discovering website censorship, 2014.
+\newblock
+  \href{https://github.com/citizenlab/test-lists}{https://github.com/citizenlab/test-lists}.
+
+\bibitem{levis2012collateral}
+Philip Levis.
+\newblock The collateral damage of internet censorship by dns injection.
+\newblock {\em ACM SIGCOMM CCR}, 42(3):10--1145, 2012.
+
+\bibitem{lowe2007great}
+Graham Lowe, Patrick Winters, and Michael~L Marcus.
+\newblock The great dns wall of china.
+\newblock {\em MS, New York University}, 21:1, 2007.
+
+\bibitem{RFC1035}
+P.~Mockapetris.
+\newblock { DOMAIN NAMES - IMPLEMENTATION AND SPECIFICATION }.
+\newblock {\em Internet Engineering Task Force}, 1987.
+\newblock Accessed: 2022-01-27.
+
+\bibitem{murdock2017target}
+Austin Murdock, Frank Li, Paul Bramsen, Zakir Durumeric, and Vern Paxson.
+\newblock Target generation for internet-wide ipv6 scanning.
+\newblock In {\em Proceedings of the 2017 Internet Measurement Conference},
+  pages 242--253, 2017.
+
+\bibitem{nabi2013anatomy}
+Zubair Nabi.
+\newblock The anatomy of web censorship in pakistan.
+\newblock In {\em 3rd $\{$USENIX$\}$ Workshop on Free and Open Communications
+  on the Internet ($\{$FOCI$\}$ 13)}, 2013.
+
+\bibitem{niaki2020iclab}
+Arian~Akhavan Niaki, Shinyoung Cho, Zachary Weinberg, Nguyen~Phong Hoang, Abbas
+  Razaghpanah, Nicolas Christin, and Phillipa Gill.
+\newblock Iclab: A global, longitudinal internet censorship measurement
+  platform.
+\newblock In {\em 2020 IEEE Symposium on Security and Privacy (SP)}, pages
+  135--151. IEEE, 2020.
+
+\bibitem{padmanabhan2021multi}
+Ramakrishna Padmanabhan, Arturo Filast{\`o}, Maria Xynou, Ram~Sundara Raman,
+  Kennedy Middleton, Mingwei Zhang, Doug Madory, Molly Roberts, and Alberto
+  Dainotti.
+\newblock A multi-perspective view of internet censorship in myanmar.
+\newblock In {\em Proceedings of the ACM SIGCOMM 2021 Workshop on Free and Open
+  Communications on the Internet}, pages 27--36, 2021.
+
+\bibitem{pearce2017augur}
+Paul Pearce, Roya Ensafi, Frank Li, Nick Feamster, and Vern Paxson.
+\newblock Augur: Internet-wide detection of connectivity disruptions.
+\newblock In {\em 2017 IEEE Symposium on Security and Privacy (SP)}, pages
+  427--443. IEEE, 2017.
+
+\bibitem{pearce2017global}
+Paul Pearce, Ben Jones, Frank Li, Roya Ensafi, Nick Feamster, Nick Weaver, and
+  Vern Paxson.
+\newblock Global measurement of $\{$DNS$\}$ manipulation.
+\newblock In {\em 26th $\{$USENIX$\}$ Security Symposium ($\{$USENIX$\}$
+  Security 17)}, pages 307--323, 2017.
+
+\bibitem{ramesh2020decentralized}
+Reethika Ramesh, Ram~Sundara Raman, Matthew Bernhard, Victor Ongkowijaya,
+  Leonid Evdokimov, Anne Edmundson, Steven Sprecher, Muhammad Ikram, and Roya
+  Ensafi.
+\newblock Decentralized control: A case study of russia.
+\newblock In {\em Network and Distributed Systems Security (NDSS) Symposium
+  2020}, 2020.
+
+\bibitem{scott2016satellite}
+Will Scott, Thomas Anderson, Tadayoshi Kohno, and Arvind Krishnamurthy.
+\newblock Satellite: Joint analysis of cdns and network-level interference.
+\newblock In {\em 2016 $\{$USENIX$\}$ Annual Technical Conference
+  ($\{$USENIX$\}$$\{$ATC$\}$ 16)}, pages 195--208, 2016.
+
+\bibitem{shandler2018measuring}
+Ryan Shandler.
+\newblock Measuring the political and social implications of
+  government-initiated cyber shutdowns.
+\newblock In {\em 8th $\{$USENIX$\}$ Workshop on Free and Open Communications
+  on the Internet ($\{$FOCI$\}$ 18)}, 2018.
+
+\bibitem{sundara2020censored}
+Ram Sundara~Raman, Prerana Shenoy, Katharina Kohls, and Roya Ensafi.
+\newblock Censored planet: An internet-wide, longitudinal censorship
+  observatory.
+\newblock In {\em Proceedings of the 2020 ACM SIGSAC Conference on Computer and
+  Communications Security}, pages 49--66, 2020.
+
+\bibitem{RFC3596}
+S.~Thomson, C.~Huitema, Ksinant V., and Souissi M.
+\newblock { DNS Extensions to Support IP Version 6 }.
+\newblock {\em Internet Engineering Task Force}, 2003.
+\newblock Accessed: 2022-01-27.
+
+\bibitem{vandersloot2018quack}
+Benjamin VanderSloot, Allison McDonald, Will Scott, J~Alex Halderman, and Roya
+  Ensafi.
+\newblock Quack: Scalable remote measurement of application-layer censorship.
+\newblock In {\em 27th $\{$USENIX$\}$ Security Symposium ($\{$USENIX$\}$
+  Security 18)}, pages 187--202, 2018.
+
+\bibitem{wander2014measurement}
+Matth{\"a}us Wander, Christopher Boelmann, Lorenz Schwittmann, and Torben Weis.
+\newblock Measurement of globally visible dns injection.
+\newblock {\em IEEE Access}, 2:526--536, 2014.
+
+\bibitem{weinberg2021chinese}
+Zachary Weinberg, Diogo Barradas, and Nicolas Christin.
+\newblock Chinese wall or swiss cheese? keyword filtering in the great firewall
+  of china.
+\newblock In {\em Proceedings of the Web Conference 2021}, pages 472--483,
+  2021.
+
+\bibitem{xu2011internet}
+Xueyang Xu, Z~Morley Mao, and J~Alex Halderman.
+\newblock Internet censorship in china: Where does the filtering occur?
+\newblock In {\em International Conference on Passive and Active Network
+  Measurement}, pages 133--142. Springer, 2011.
+
+\bibitem{yadav2018light}
+Tarun~Kumar Yadav, Akshat Sinha, Devashish Gosain, Piyush~Kumar Sharma, and
+  Sambuddho Chakravarty.
+\newblock Where the light gets in: Analyzing web censorship mechanisms in
+  india.
+\newblock In {\em Proceedings of the Internet Measurement Conference 2018},
+  pages 252--264, 2018.
+
+\end{thebibliography}

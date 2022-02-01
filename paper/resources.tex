@@ -289,6 +289,19 @@ circumvention tools which exploit the {\tt A/AAAA} gap.
 \subsection{Characteristics of anomalous domains} 
 \label{sec:resources:domains}
 
+Our results in the previous two sections suggest {\tt A} and {\tt AAAA} queries 
+are censored differently on the country and individual resolvers level. We also
+analyzed certain characteristics about these individual resolvers which censor 
+{\tt A} and {\tt AAAA} differently. We now seek to understand certain characteristics
+about the individual domains that are being censored differently over {\tt A} and 
+{\tt AAAA} queries. First, we identify domains in each country that show significantly
+different censorship rates over {\tt A} and {\tt AAAA} queries and assign them categories. 
+We then compare the distribution of categories of the domains showing a significant 
+difference over {\tt A} and {\tt AAAA} queries and compare this with the category
+distribution of all blocked domains within that country. This comparison helps us understand
+whether the {\tt A}/{\tt AAAA} differnece is specific to a category of domains or 
+whether all domain categories experience similar difference.
+
 \para{Identifying differences in domain behaviors within a country.} 
 To uncover the domains which have their {\tt A} and {\tt AAAA} queries treated
 differently within a country, we compare the ratios of censored responses in
@@ -306,5 +319,53 @@ significant difference for a domain would suggest the presence of
 a domain-specific characteristic that results in the two resource records
 undergoing different censorship mechanisms within the corresponding country.
 
-\parait{Results.}
+\para{Which countries have the largest fractions of domains
+exhibiting {\tt A} and {\tt AAAA} resolution inconsistencies?}
+Out of the 714 domains that were tested in each country, Thailand exhibits the greatest
+difference in censorship over {\tt A} and {\tt AAAA} queries. ~30\% of all domains
+tested in Thailand had a signficant difference followed by ~14\% in he US. 8 countries
+below the above 2 in the top 10 exhibit significant difference in censorship over 
+{\tt A} and {\tt AAAA} queries in ~1 to ~5 \% of all domains. 54 countries had no
+domain and 71 countries had atleast 1 domain present which had a significant difference 
+in censorship over {\tt A} and {\tt AAAA} queries.
 
+\para{Which categories do the domains, with the largest resolution inconsistencies 
+over {\tt A} and {\tt AAAA} queries, belong to?}
+We now analyze the categories of each of the domains which have a significant difference
+in censorship over  {\tt A} and {\tt AAAA} queries. We used the McAfeee URL ticketing system
+\cite{mcafee} to determine categories of the domains that we tested. All our domains fall in
+61 distinct categories. About ~18\% of domains with a significant difference belonged to the 
+\textit{General News} category and another ~18\% belonged to \textit{Search Engines}. Other 
+popular categories of websites include \textit{Government/Military, Internet Services 
+and Malicious Sites}.
+
+\para{How spread out are the categories of {\tt A}/{\tt AAAA}-inconsistent domains?}
+In order to compare the spread of domain categories between all blocked domains in a coutry
+and domains with a significant difference over {\tt A}/{\tt AAAA} queries, we compare the 
+entropies of these two distributions. ($S^{\text{all}}_{\text{query}}$) represents
+the distribution of categories in all the blocked domains in a country and 
+($S^{\text{inconsistent}}_{\text{query}}$) represents the distribution of categories in the 
+domains which showed a significant difference. We use KL-divergence, as described previously,
+to compare these two distributions. This computation will help us understand if 
+($S^{\text{inconsistent}}_{\text{query}}$) consists of categories which are much different
+than ($S^{\text{all}}_{\text{query}}$) and are hence more likely to experience 
+the inconsistencies. A smaller value of $\nabla_{\text{query}}$ indicates that the spread 
+of categories ($S^{\text{all}}_{\text{query}}$) is similar to the spread of categories in 
+($S^{\text{inconsistent}}_{\text{query}}$) and no particular category experiences the 
+inconsistency more than others. On the contrary, A higher value of $\nabla_{\text{query}}$ 
+indicates that some categories experinece the inconsistency disproportionately more than
+other categories. 
+\\
+\\
+Countries like Pakistan, Iran and Myanmar have high $\nabla_{\text{query}}$ (in the range of 
+2 - 2.5) and the category contributing most to these scores being \textit{Pornography}, 
+\textit{Potentially unwanted programs} and \textit{Government/Military respectively.}
+These high $\nabla_{\text{query}}$ scores suggest that the distribution of categories of
+domains which face significant inconsistencies over {\tt A}/{\tt AAAA} differs a lot from
+the distribution of categories of all blocked domains in these countries. This suggests
+that categories from ($S^{\text{inconsistent}}_{\text{query}}$) are more likely to 
+be censored significantly differnetly over {\tt A} and {\tt AAAA} queries.
+\\
+Countries like Thailand and the US having lower scores (in the range of 0.4 and 1.2) 
+suggest that the distribution of categories between the two sets is roughly the same. 
+No category is more likely to see inconsistency over {\tt A}/{\tt AAAA} quries than other.  

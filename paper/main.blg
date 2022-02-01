@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: censorship.bib
+Warning--entry type for "maxmind-connectiondb" isn't style-file defined
+--line 785 of file censorship.bib
+A bad cross reference---entry "Czyz-NDSS2016"
+refers to entry "DBLP:conf/ndss/2016", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/ndss/2016"
+Warning--to sort, need author or key in Google-IPv6
+Warning--to sort, need author or key in maxmind-connectiondb
+Warning--to sort, need author or key in mcafee
+Warning--empty journal in dagon2008corrupted
+You've used 44 entries,
+            2118 wiz_defined-function locations,
+            744 strings with 12990 characters,
+and the built_in function-call counts, 17537 in all, are:
+= -- 1708
+> -- 911
+< -- 20
++ -- 366
+- -- 316
+* -- 1132
+:= -- 2741
+add.period$ -- 144
+call.type$ -- 44
+change.case$ -- 290
+chr.to.int$ -- 0
+cite$ -- 48
+duplicate$ -- 713
+empty$ -- 1362
+format.name$ -- 316
+if$ -- 3817
+int.to.chr$ -- 0
+int.to.str$ -- 44
+missing$ -- 36
+newline$ -- 225
+num.names$ -- 82
+pop$ -- 389
+preamble$ -- 1
+purify$ -- 244
+quote$ -- 0
+skip$ -- 550
+stack$ -- 0
+substring$ -- 913
+swap$ -- 244
+text.length$ -- 20
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 176
+warning$ -- 4
+while$ -- 149
+width$ -- 46
+write$ -- 486
+(There was 1 error message)
